@@ -1,1 +1,1 @@
-# Simulation with TIAGo in Gazebo
+# Simulation using TIAGo in Gazebo
